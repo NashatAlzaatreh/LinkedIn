@@ -1,0 +1,49 @@
+*{
+  
+  box-sizing: border-box;
+}
+
+header{
+  background-color: gray;
+  height: 60px;
+
+}
+
+nav{
+   padding-top: 20px;
+  float: right;
+   
+}
+
+li {
+display: inline;
+padding: 10px;
+font-size: 20px
+
+}
+
+li a {
+  color: #fff;
+  text-decoration: none;
+
+}
+
+footer{
+  text-align: center;
+  color: #fff;
+  background-color: black;
+  height: 25px;
+  font-size: 15px;
+  padding-top: 5px
+  
+}
+
+section { 
+  text-align: center;
+}
+ /* #joinn {
+   padding-top: 20px;
+  float: right;
+ 
+ }
+  */
